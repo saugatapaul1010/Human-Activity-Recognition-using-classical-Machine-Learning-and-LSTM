@@ -1,6 +1,6 @@
 ### LSTMs for Human Activity Recognition
 
-<img src='1.png'>
+<img src='images/1.png'>
 
 
 Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
